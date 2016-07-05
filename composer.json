@@ -1,0 +1,13 @@
+{
+    "name": "lecaoquochung/php-google-analytics-api",
+    "description": "Google Analytics API Connect",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hung Le",
+            "email": "lecaoquochung@gmail.com"
+        }
+    ],
+    "require": {}
+}
