@@ -9,5 +9,7 @@
             "email": "lecaoquochung@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "google/apiclient": "^2.0"
+    }
 }
